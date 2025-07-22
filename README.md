@@ -2,4 +2,4 @@
 
 > 66-040626-1035-7 ทองทิศ สายสุด
 > 
-> https://github.com/thisttc/cs6610357.github.io
+> https://thisttc.github.io/cs6610357.github.io/
